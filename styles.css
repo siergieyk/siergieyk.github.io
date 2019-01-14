@@ -74,17 +74,23 @@ display:block;
 
 img.pic1{
 width:200px;
-float:left;
-padding-right:10px;
+float:right;
+padding-left:40px;
 margin-top:10px;
 }
 
 img.pic2{
 width:200px;
 float:right;
-padding-left:10px;
+padding-left:40px;
 margin-top:10px;
 }
+
+div#button{
+    padding-left:42%;
+
+}
+
 
 
 /**++++++++++Typography++++++++++**/
